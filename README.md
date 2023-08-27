@@ -28,10 +28,32 @@ and also https://imgflip.com/gif-maker
 
 ## App Brainstorming (Step 4)
 
+App: Facebook Messanger
+
+App: Spotify
+Favorite Features:
+-Creating and sharing playlists with friends/followers
+-Song Suggestions, custome made playlists tailored to one's liking.
+-Podcasts as well as streaming available
+
+App: Discord
+Favorite Features: 
+Threading: Creating threads for different topics
+Tagging: Being able to ping a specific user
+Social: Seeing friends' activity
+
+Favorite features
+Being able to change themes to pop culture items
+Customization
+Visual Effects
+
+
+
 ## Notes
 
 Describe any challenges encountered while building the app.
-    Only real challenge was locating some of the tools. Exact verbiage might differ by a word or two. 
+Locating some of the tools. Exact verbiage might differ by a word or two. 
+Also trying to create the URL for the GIF submission was a bit of a hassle in the beginning. But was able to work through it at the end pretty easily.
 
 ## License
 
